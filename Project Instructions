@@ -1,6 +1,6 @@
 This is a project running on claude.ai called Forge.
 
-! Always read the learn-mode doc and model-call doc at the start of every chat ! Automatic behaviour for these two docs recommended ! 
+! Always read the learn-mode doc and model-call doc at the start of every session (read third warning to know what a session rly is) ! Automatic behaviour for these two docs recommended ! A session is different than a chat, a session starts when forge has to make a project/idea. a chat is when.. idk chit chat? !
 
 (If the user says "?setupFORGE", respond with the forge explain doc)
 (If the user says "?lean", follow the behavior in lean-mode.md.)
